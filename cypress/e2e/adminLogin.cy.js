@@ -1,4 +1,3 @@
-import login from'../fixtures/login.json';
 import selectors from'../fixtures/selectors.json';
 
 describe('Login to admin page', () => {
